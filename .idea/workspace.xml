@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43f38cdf-178c-4e36-837e-4fe8e2b0aa45" name="Changes" comment="Added gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getHistoricalData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getStockPlates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plotChart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    <list default="true" id="43f38cdf-178c-4e36-837e-4fe8e2b0aa45" name="Changes" comment="1. Get industrial &amp; concept plate list&#10;2. Plot date chart&#10;3. Get stock's historical data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741747944514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1. Get industrial &amp; concept plate list&#10;2. Plot date chart&#10;3. Get stock's historical data">
+      <created>1741754516014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741754516014</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
+    <MESSAGE value="1. Get industrial &amp; concept plate list&#10;2. Plot date chart&#10;3. Get stock's historical data" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Get industrial &amp; concept plate list&#10;2. Plot date chart&#10;3. Get stock's historical data" />
   </component>
 </project>
